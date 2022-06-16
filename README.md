@@ -11,6 +11,8 @@ Step 2:Click Add File and select the path to the desired .sof.
 ![image](https://user-images.githubusercontent.com/93427264/174128684-83e165b2-7262-4863-bc01-e8612631cc9e.png)
 
 Step 3:Turn on the Program/Configure option for the added file.
+![image](https://user-images.githubusercontent.com/93427264/174129014-9888b54d-f6fd-491c-abb2-35b75e9dca25.png)
+
 
 Step 4:Click Start to download the selected file to the FPGA. Configuration is complete when the progress bar reaches 100%.
 ![image](https://user-images.githubusercontent.com/93427264/174128817-4ba72621-d32c-4e5c-ac27-64e9201495f5.png)
